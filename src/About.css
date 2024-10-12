@@ -1,0 +1,4 @@
+.education-list {
+    list-style-type: circle; /* This makes the bullet points circles */
+    padding-left: 20px;
+  }
